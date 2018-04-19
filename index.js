@@ -76,6 +76,4 @@ app.get('/info', (req, res) => {
 
 
 const PORT = 3001
-app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}.`)
-})
+app.listen(https://tonikem.herokuapp.com)
